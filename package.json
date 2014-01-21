@@ -1,0 +1,36 @@
+{
+  "name": "handlebars-helper-datetime",
+  "version": "0.1.0",
+  "description": "Handlebars helper for adding RFC-822 formatted datetimes to XML feeds.",
+  "homepage": "https://github.com/helpers/handlebars-helper-datetime",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helpers/handlebars-helper-datetime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/helpers/handlebars-helper-datetime/issues"
+  },
+  "main": "index.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/helpers/handlebars-helper-datetime/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "moment": "~2.5.0"
+  },
+  "keywords": [
+    "date",
+    "dates",
+    "datetime",
+    "handlebars helper",
+    "handlebars",
+    "helper",
+    "moment"
+  ]
+}
